@@ -1,0 +1,19 @@
+{
+  "name": "zye-music",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aristeuroriz/zye-music.git"
+  },
+  "author": "Aristeu Roriz Neto",
+  "license": "UNLICENCED",
+  "bugs": {
+    "url": "https://github.com/aristeuroriz/zye-music/issues"
+  },
+  "homepage": "https://github.com/aristeuroriz/zye-music#readme"
+}
